@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nilupulee</h1>
 <h3 align="center">A passionate electronic engineering undergraduate from Sri Lanka</h3>
----
+
 - 🌱 I’m currently learning **machine learning**
 
 - 📫 How to reach me **nilupuleeamarathunga@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/nilupulee amarathunga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nilupulee amarathunga" height="30" width="40" /></a>
 <a href="https://kaggle.com/nilupulee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nilupulee" height="30" width="40" /></a>
 </p>
