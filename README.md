@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nilupulee</h1>
 <h3 align="center">A passionate electronic engineering undergraduate from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **Embedded Systems and IOT**
+- 🌱 I’m currently learning **Degital System Design, Embedded Systems and IOT**
 
 - 📫 How to reach me **nilupuleeamarathunga@gmail.com**
 
